@@ -1,0 +1,19 @@
+{
+  "name": "culturelink",
+  "version": "1.0.0",
+  "description": "Um site voltado para o estudo de culturas e linguas estrangeiras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radzinbr/CultureLink.git"
+  },
+  "author": "Samuel,nicolas,ana,yasmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radzinbr/CultureLink/issues"
+  },
+  "homepage": "https://github.com/radzinbr/CultureLink#readme"
+}
